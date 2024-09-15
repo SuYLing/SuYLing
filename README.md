@@ -22,6 +22,5 @@ I'm a passionate **Frontend Developer**. I have a strong interest in the world o
 
 
 
-![GitHub Snake Light](https://github.com/SuYLing/SuYLing/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/SuYLing/SuYLing/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuYLing&layout=compact&theme=radical)
 
