@@ -1,4 +1,4 @@
-## Hi there 👋, I'm SuYLing
+## Hi there 👋, I'm SuYLing ![Profile Views](https://komarev.com/ghpvc/?username=SuYLing&color=blue)
 I'm a passionate **Frontend Developer**. I have a strong interest in the world of programming and am constantly seeking to expand my knowledge. While I currently specialize in frontend development, I’m on a journey to transition towards **full-stack development**.
 
 #### 🛠️ Technologies & Tools:
@@ -14,15 +14,12 @@ I'm a passionate **Frontend Developer**. I have a strong interest in the world o
 - **Version Control:** Git, GitHub
 
 #### 🌱 Currently learning:
-- Backend development (Node.js, NestJs, Golang，MongoDB)
-- Advanced TypeScript patterns
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuYLing)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SuYLing)
--->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuYLing)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SuYLing&color=blue)
 ![SuYLing's github activity graph](https://raw.githubusercontent.com/SuYLing/SuYLing/output/github-contribution-grid-snake.svg)
 
