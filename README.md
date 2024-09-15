@@ -25,4 +25,4 @@ I'm a passionate **Frontend Developer**. I have a strong interest in the world o
 -->
 https://img.shields.io/badge/Lang-JavaScript-yellowgreen
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuYLing)
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=SuYLing&color=blue)
