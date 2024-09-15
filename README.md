@@ -21,8 +21,8 @@ I'm a passionate **Frontend Developer**. I have a strong interest in the world o
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuYLing)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SuYLing)
-![SuYLing's github activity graph](https://raw.githubusercontent.com/SuYLing/SuYLing/output/github-contribution-grid-snake.svg)
 -->
 https://img.shields.io/badge/Lang-JavaScript-yellowgreen
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuYLing)
 ![Profile Views](https://komarev.com/ghpvc/?username=SuYLing&color=blue)
+![SuYLing's github activity graph](https://raw.githubusercontent.com/SuYLing/SuYLing/output/github-contribution-grid-snake.svg)
+
